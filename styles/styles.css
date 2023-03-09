@@ -79,3 +79,7 @@ h2{
 .stack{
     padding-top: 3%;
 }
+/* Gif image */
+.greetinggif{
+    max-width: 100%;
+}
