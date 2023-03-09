@@ -1,0 +1,81 @@
+#top-section{
+    background-color: #FFF1DC;
+    color: black;
+
+}
+/* Round circle image */
+.avatarImage{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+/* Container fluid */
+.container-fluid{
+    padding: 3% 15%;
+}
+/* Navbar */
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+
+}
+.nav-link{
+    font-size: 1.2rem;
+    
+}
+
+/* Contact buttons */
+.contactButton{
+    margin: 5% 3% 5% 0;
+}
+.name-title{
+    padding-top: 10%;
+}
+
+/* Education section */
+#education-section{
+    padding: 7% 15%;
+    background-color: #fbf0f0 ;
+}
+.school-attend{
+    text-align: center;
+    padding: 3%;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.school-attend>p{
+    color: grey;
+}
+
+/* Certificate section*/
+#certificate-section{
+    padding: 7% 15%;
+    background-color: #FFF1DC ;
+}
+.certificate{
+    text-align: center;
+    padding: 3%;
+}
+.certificate>p{
+    color: grey;
+}
+.certificate>ul{
+    text-align: left;
+}
+
+/* Project section */
+#project-section{
+    padding: 7% 15%;
+    background-color: #fbf0f0 ;
+}
+.stack{
+    padding-top: 3%;
+}
